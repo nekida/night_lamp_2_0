@@ -1,0 +1,7 @@
+/.vscode/
+/build/
+.mxproject
+Makefile
+STM32Make.make
+STM32-for-VSCode.config.yaml
+night_lamp_2_0.ioc
